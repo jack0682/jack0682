@@ -53,10 +53,10 @@
 
 | 영역 | 도구 및 역량 |
 |------|--------------|
-| Programming | Python, MATLAB |
-| 제어 시스템 | PID, Feedforward, 루트 로커스, Newton/Jacobi 반복법 |
+| Programming | Python, MATLAB, C, java  |
+| 제어 시스템 | PID, MLFFN, RBFN 설계 경험 |
 | ROS / 시뮬레이션 | ROS, Gazebo, RViz, Pixhawk |
-| 기구 설계 | CAT 1급, SolidWorks, 3D 프린터 |
+| 기구 설계 | CAT 1급, SolidWorks, 3D 모델링, 수치해석 |
 | 센싱 통합 | IMU, 라이다, GPS 센서 연동 |
 | 실험 자동화 | 전기장 기반 입자 제어, 실험 데이터 분석 |
 
