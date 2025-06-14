@@ -228,22 +228,6 @@ As team lead for my university’s drone research group (affiliated with the Kor
 
 ---
 
-### 🤖 Doosan Robotics Trainee Program  
-- Engaged in hands-on projects focusing on industrial collaborative robots (UR series)  
-  with ROS2 and Gazebo simulation.  
-- Developed computer vision pipelines (YOLOv5 + StrongSORT) for object detection and tracking.  
-- Applied AI techniques to robotic manipulation tasks and explored real-time control strategies  
-  for human-safe operation.  
-
----
-
-### 🌍 International Engineering Exploration (Germany)  
-- Conducted field studies at **RWTH Aachen University**, **TU Dortmund University**, and industrial sites  
-  across the Ruhr region.  
-- Toured companies like **Volkswagen** to study advanced automation and manufacturing systems.  
-- Gained experience applying to and interviewing with German engineering firms,  
-  enhancing my global perspective on robotics and industrial engineering.
-
 
 ## 🛠️ Skills & Tools  
 
