@@ -186,6 +186,7 @@ from mere automated machines into intelligent, human-like collaborators.
 
 CSA represents my long-term vision and is at the heart of my life's work as a robotics researcher.
 Every line of code, every diagram, and every experiment I conduct is part of this journey.  
+
 ---
 
 ### 📄 Review Paper — Towards Cognitive Collaborative Robots  
