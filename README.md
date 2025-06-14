@@ -233,7 +233,7 @@ As team lead for my university’s drone research group (affiliated with the Kor
 
 | Category | Tools / Technologies |
 |-----------|---------------------|
-| **Programming Languages** | Python, C, Java, MATLAB |
+| **Programming Languages** | Python, C, Java, cpp, MATLAB |
 | **Control Systems** | PID, Feedforward/Feedback integration, State-space methods, MLFFN, RBFN |
 | **AI / Machine Learning** | PyTorch, TensorFlow, YOLOv5, StrongSORT, PPO (Reinforcement Learning), Attention mechanisms, XAI frameworks |
 | **Robotics Middleware & Simulation** | ROS1, ROS2 (Humble), Gazebo, RViz, URSim |
