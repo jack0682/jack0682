@@ -99,7 +99,8 @@ CSA is designed as a **5-stage architecture**:
 #### ⚡ CSA in Action  
 - Full repository: [jack0682/CSAv1](https://github.com/jack0682/CSAv1.git)  
 - Initial conceptual foundation:  
-  *Review paper: [Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation](https://arxiv.org/abs/2505.03815)*  
+  *Review paper: [Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation](https://arxiv.org/abs/2505.03815)*
+  *SEGO paper: [cognitive synergy architecture: sego for human-centric collaborative robots](https://arxiv.org/abs/2506.13149)*
 
 This architecture reflects **years of dedicated study, experimentation, and philosophical inquiry**.  
 It is continuously evolving through hands-on implementation using ROS2 (Humble), Python,  
