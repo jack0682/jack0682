@@ -1,7 +1,7 @@
 # 🛠️ Oh Jaehong | Robotics & Control Engineer  
 
 Driven by a relentless passion to merge mechanics, control theory, and artificial intelligence,  
-I am pioneering the **Cognitive Synergy Architecture (CSA)**—a groundbreaking framework  
+I am pioneering the **Cognitive Synergy Architecture (CSA)** a groundbreaking framework  
 for human-centered collaborative robotics.  
 
 Currently at the forefront of **Doosan Robotics training** in Computer Vision, AI, and ROS,  
