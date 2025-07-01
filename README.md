@@ -101,6 +101,8 @@ CSA is designed as a **5-stage architecture**:
 - Initial conceptual foundation:  
    - [_**"Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation"**_](https://arxiv.org/abs/2505.03815)
    - [_**"Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots"**_](https://arxiv.org/abs/2506.13149)
+   - [_**Ontology Neural Network and ORTSF: A Framework for Topological Reasoning and Delay-Robust Control**_](https://arxiv.org/abs/2506.19277)
+
 
 These papers present the conceptual and theoretical foundation for **CSA (Cognitive Synergy Architecture)** —  
 a modular framework that integrates semantic perception (**SEGO**), intention-aware planning (**IMAGO**),  
