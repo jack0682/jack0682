@@ -7,6 +7,7 @@ for human-centered collaborative robotics.
 Currently at the forefront of **Doosan Robotics training** in Computer Vision, AI, and ROS,  
 I design systems where **robots become thinking partners, not just tools**.
 
+- My BLOG: [Jack's Blog](https://jack0682.github.io/)
 
 ## 📑 Table of Contents  
 
