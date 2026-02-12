@@ -1,13 +1,13 @@
 # Oh Jaehong (오재홍) — Robotics / Control / Cognitive Robotics
+
+<img width="2811" height="798" alt="image" src="https://github.com/user-attachments/assets/b9471351-dae5-4048-a0f6-fbf9f9c47aa2" />
+
 I build robotic systems that **stay operational in the real world** and I research architectures where robots become **legible teammates** (not opaque tools).
 
 **Links**
 - Blog: https://jack0682.github.io/
 - GitHub: https://github.com/jack0682
 - Email: jaehongoh1554@gmail.com
-
-<img width="2811" height="798" alt="image" src="https://github.com/user-attachments/assets/b9471351-dae5-4048-a0f6-fbf9f9c47aa2" />
-
 
 ---
 
